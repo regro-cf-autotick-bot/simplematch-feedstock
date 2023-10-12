@@ -1,11 +1,11 @@
-About simplematch
-=================
+About simplematch-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/simplematch-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/tfeldmann/simplematch
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/simplematch-feedstock/blob/main/LICENSE.txt)
 
 Summary: Minimal, super readable string pattern matching.
 

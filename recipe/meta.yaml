@@ -1,5 +1,5 @@
 {% set name = "simplematch" %}
-{% set version = "1.3" %}
+{% set version = "1.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/simplematch-{{ version }}.tar.gz
-  sha256: ed1d17d842799ee2222de1ea5f7fc3b4b1317464852214dc7dd197c1332a9f3c
+  sha256: 55a77278b3d0686cb38e3ffe5a326a5f59c2995f1ba1fa1a4f68872c17caf4cb
 
 build:
   noarch: python
